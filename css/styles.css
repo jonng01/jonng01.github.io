@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'druk';
+  src: url("../fonts/druk/drukmedium.woff") format("woff");
+  font-weight: medium; }
+
+body {
+  font-family: 'foundersGroteskLight', Helvetica, sans-serif;
+  font-weight: normal;
+  background-color: #ECFFFB; }
+
+h1 {
+  font-weight: bold; }
+
+#druk {
+  font-family: "druk", Helvetica, sans-serif;
+  font-size: 18pt;
+  color: black; }
+
+#founders {
+  font-family: "foundersGroteskLight", Helvetica, sans-serif;
+  font-size: 12pt;
+  color: black; }
+
+.smallspacing {
+  padding-top: 30px; }
+
+.midspacing {
+  padding-top: 60px; }
+
+.largespacing {
+  padding-top: 100px; }
+
+#rounded {
+  border-radius: 10px; }
+
+nav {
+  width: 100%;
+  background-color: whitesmoke;
+  position: fixed;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-content: center; }
+  nav .nav-wrapper {
+    max-width: 90%;
+    min-width: 80%;
+    display: flex;
+    justify-content: space-between; }
+    nav .nav-wrapper .nav-logo {
+      display: flex;
+      align-content: center; }
+    nav .nav-wrapper .nav-content {
+      display: flex;
+      align-content: center; }
+
+.description {
+  display: none; }
+
+.portfoliopiece:hover + .description {
+  position: absolute;
+  display: block;
+  font-size: 50px; }

@@ -1,0 +1,153 @@
+// font-files
+// @font-face {
+//     font-family: 'foundersGroteskLight';
+//     src: url('../fonts/founders-grotesk/founderslight.woff') format('woff');
+// }
+// @font-face {
+//     font-family: 'foundersGroteskMedium';
+//     src: url('../fonts/founders-grotesk/founders-medium.woff') format('woff');
+// }
+// @font-face {
+//     font-family: 'foundersGroteskBold';
+//     src: url('../fonts/founders-grotesk/founders-semi.woff') format('woff');
+// }
+@font-face {
+    font-family: 'druk';
+    src: url('../fonts/druk/drukmedium.woff') format('woff');
+    font-weight: medium;
+}
+
+body {
+    font-family: 'foundersGroteskLight', Helvetica, sans-serif;
+    font-weight: normal;
+    background-color: #ECFFFB;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#druk {
+    font-family: "druk", Helvetica, sans-serif;
+    font-size: 18pt;
+    color: black;
+}
+
+#founders {
+    font-family: "foundersGroteskLight", Helvetica, sans-serif;
+    font-size: 12pt;
+    color: black;
+}
+
+// Padding Standards
+.smallspacing {
+    padding-top: 30px;
+}
+
+.midspacing {
+    padding-top: 60px;
+}
+
+.largespacing {
+    padding-top: 100px;
+}
+
+#rounded {
+    border-radius: 10px;
+}
+
+// Navigation
+nav {
+    width: 100%;
+    background-color: whitesmoke;
+    position: fixed;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    .nav-wrapper {
+        max-width: 90%;
+        min-width: 80%;
+        display: flex;
+        justify-content: space-between;
+        .nav-logo {
+            display: flex;
+            align-content: center;
+        }
+        .nav-content {
+            display: flex;
+            align-content: center;
+        }
+    }
+}
+
+//Portfolio Piece
+.portfoliopiece {}
+
+.portfoliopiece:hover {
+
+}
+
+.description {
+    display: none;
+}
+
+.portfoliopiece:hover+.description {
+    position: absolute;
+    display: block;
+    font-size: 50px;
+}
+
+
+
+// nav {
+//     z-index: 100;
+//     display: flex;
+//     justify-content: center;
+//     background-color: $primary-color;
+//     height: 75px;
+//     position: fixed;
+//     .nav-container {
+//         display: flex;
+//         align-items: center;
+//         width: 90%;
+//         .nav-content {
+//             .tabs {
+//                 width: 350px;
+//                 display: flex;
+//                 justify-content: space-between;
+//                 .tab {
+//                     width: 49%;
+//                 }
+//                 .tab:hover {
+//                     background-color: rgba(0, 0, 255, 0.075);
+//                 }
+//                 .indicator {
+//                     position: absolute;
+//                     bottom: 0;
+//                     height: 50px;
+//                     background-color: whitesmoke;
+//                     will-change: left, right;
+//                     opacity: 0.2
+//                 }
+//             }
+//         }
+//     }
+// }
+// @media (max-width: 600px) {
+//     nav {
+//         .nav-container {
+//             width: 100%;
+//             .nav-content {
+//                 width: 100%;
+//                 .tabs {
+//                     width: 100%;
+//                     margin-left: 0px;
+//                 }
+//                 .indicator {
+//                     width: 50%;
+//                 }
+//             }
+//         }
+//     }
+// }
