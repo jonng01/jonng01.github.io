@@ -63,6 +63,9 @@ h1 {
 .underline:hover {
   text-decoration: underline; }
 
+.caption {
+  font-size: 14pt; }
+
 .smallspacing {
   padding-top: 30px; }
 
