@@ -75,7 +75,7 @@ h1 {
     font-weight: 400;
 }
 
-.underline:hover{
+.underline:hover {
     text-decoration: underline;
 }
 
@@ -145,21 +145,6 @@ nav {
     }
 }
 
-//Portfolio Piece
-.portfoliopiece {}
-
-.portfoliopiece:hover {}
-
-.description {
-    display: none;
-}
-
-.portfoliopiece:hover+.description {
-    position: absolute;
-    display: block;
-    font-size: 50px;
-}
-
 // Layout Color Specifications
 #lightblue {
     background-color: #ECFFFB;
@@ -173,6 +158,19 @@ nav {
     background-color: #ffffff;
 }
 
-.carousel{
+.carousel {
     cursor: pointer;
 }
+
+//Portfolio Piece
+// Additional Hover detail homepage
+// .portfoliopiece {}
+// .portfoliopiece:hover {}
+// .description {
+//     display: none;
+// }
+// .portfoliopiece:hover+.description {
+//     position: absolute;
+//     display: block;
+//     font-size: 50px;
+// }

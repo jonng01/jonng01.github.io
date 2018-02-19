@@ -109,14 +109,6 @@ nav {
   nav .nav-wrapper {
     width: 70%; } }
 
-.description {
-  display: none; }
-
-.portfoliopiece:hover + .description {
-  position: absolute;
-  display: block;
-  font-size: 50px; }
-
 #lightblue {
   background-color: #ECFFFB; }
 

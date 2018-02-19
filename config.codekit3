@@ -190,7 +190,7 @@
 		"oAP": "\/images\/36mm\/mask\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mask\/2.jpg": {
@@ -200,7 +200,7 @@
 		"oAP": "\/images\/36mm\/mask\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mask\/3.jpg": {
@@ -210,7 +210,7 @@
 		"oAP": "\/images\/36mm\/mask\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mask\/4.jpg": {
@@ -220,7 +220,7 @@
 		"oAP": "\/images\/36mm\/mask\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mask\/5.jpg": {
@@ -230,7 +230,7 @@
 		"oAP": "\/images\/36mm\/mask\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mask\/6.jpg": {
@@ -240,7 +240,7 @@
 		"oAP": "\/images\/36mm\/mask\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mouthpiece\/1.jpg": {
@@ -250,7 +250,7 @@
 		"oAP": "\/images\/36mm\/mouthpiece\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mouthpiece\/2.jpg": {
@@ -260,7 +260,7 @@
 		"oAP": "\/images\/36mm\/mouthpiece\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mouthpiece\/3.jpg": {
@@ -270,7 +270,7 @@
 		"oAP": "\/images\/36mm\/mouthpiece\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mouthpiece\/4.jpg": {
@@ -280,7 +280,7 @@
 		"oAP": "\/images\/36mm\/mouthpiece\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/mouthpiece\/5.jpg": {
@@ -290,7 +290,7 @@
 		"oAP": "\/images\/36mm\/mouthpiece\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/scroll\/1.jpg": {
@@ -300,7 +300,7 @@
 		"oAP": "\/images\/36mm\/scroll\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/scroll\/1.pdf": {
@@ -317,7 +317,7 @@
 		"oAP": "\/images\/36mm\/scroll\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/scroll\/3.jpg": {
@@ -327,7 +327,7 @@
 		"oAP": "\/images\/36mm\/scroll\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/text\/chronicle.pdf": {
@@ -358,7 +358,7 @@
 		"oAP": "\/images\/36mm\/top\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/top\/2.jpg": {
@@ -368,7 +368,7 @@
 		"oAP": "\/images\/36mm\/top\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/top\/3.jpg": {
@@ -388,7 +388,7 @@
 		"oAP": "\/images\/36mm\/top\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/trunk\/1.jpg": {
@@ -398,7 +398,7 @@
 		"oAP": "\/images\/36mm\/trunk\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/36mm\/trunk\/10.jpg": {
@@ -565,7 +565,7 @@
 		"oAP": "\/images\/bench\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/bench\/7.jpg": {
@@ -575,7 +575,7 @@
 		"oAP": "\/images\/bench\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/bench\/8.jpg": {
@@ -595,7 +595,7 @@
 		"oAP": "\/images\/bench\/process\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/bench\/process\/2.jpg": {
@@ -605,7 +605,7 @@
 		"oAP": "\/images\/bench\/process\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/bench\/process\/3.jpg": {
@@ -615,7 +615,7 @@
 		"oAP": "\/images\/bench\/process\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/bench\/process\/4.jpg": {
@@ -625,7 +625,7 @@
 		"oAP": "\/images\/bench\/process\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/1.jpg": {
@@ -635,7 +635,7 @@
 		"oAP": "\/images\/blok\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/2.jpg": {
@@ -645,7 +645,7 @@
 		"oAP": "\/images\/blok\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/3.jpg": {
@@ -655,7 +655,7 @@
 		"oAP": "\/images\/blok\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/4.jpg": {
@@ -665,7 +665,7 @@
 		"oAP": "\/images\/blok\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/5.jpg": {
@@ -675,7 +675,7 @@
 		"oAP": "\/images\/blok\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/6.jpg": {
@@ -685,7 +685,7 @@
 		"oAP": "\/images\/blok\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/blok\/text.png": {
@@ -694,8 +694,8 @@
 		"oA": 0,
 		"oAP": "\/images\/blok\/text.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -706,7 +706,7 @@
 		"oAP": "\/images\/canes\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/2.jpg": {
@@ -716,7 +716,7 @@
 		"oAP": "\/images\/canes\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/3.jpg": {
@@ -726,7 +726,7 @@
 		"oAP": "\/images\/canes\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/4.jpg": {
@@ -736,7 +736,7 @@
 		"oAP": "\/images\/canes\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/5.jpg": {
@@ -746,7 +746,7 @@
 		"oAP": "\/images\/canes\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/6.jpg": {
@@ -756,7 +756,7 @@
 		"oAP": "\/images\/canes\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/7.jpg": {
@@ -766,7 +766,7 @@
 		"oAP": "\/images\/canes\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/cane.jpg": {
@@ -805,8 +805,8 @@
 		"oA": 0,
 		"oAP": "\/images\/canes\/canegroup.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -817,7 +817,7 @@
 		"oAP": "\/images\/canes\/process\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/process\/2.jpg": {
@@ -827,7 +827,7 @@
 		"oAP": "\/images\/canes\/process\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/canes\/process\/3.jpg": {
@@ -837,7 +837,7 @@
 		"oAP": "\/images\/canes\/process\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/home\/1.jpg": {
@@ -937,7 +937,7 @@
 		"oAP": "\/images\/illustrations\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/10.jpg": {
@@ -947,7 +947,7 @@
 		"oAP": "\/images\/illustrations\/10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/2.jpg": {
@@ -957,7 +957,7 @@
 		"oAP": "\/images\/illustrations\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/3.jpg": {
@@ -967,7 +967,7 @@
 		"oAP": "\/images\/illustrations\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/4.jpg": {
@@ -977,7 +977,7 @@
 		"oAP": "\/images\/illustrations\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/5.jpg": {
@@ -987,7 +987,7 @@
 		"oAP": "\/images\/illustrations\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/6.jpg": {
@@ -997,7 +997,7 @@
 		"oAP": "\/images\/illustrations\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/7.jpg": {
@@ -1007,7 +1007,7 @@
 		"oAP": "\/images\/illustrations\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/8.jpg": {
@@ -1017,7 +1017,7 @@
 		"oAP": "\/images\/illustrations\/8.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/illustrations\/9.jpg": {
@@ -1027,7 +1027,7 @@
 		"oAP": "\/images\/illustrations\/9.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/1.jpg": {
@@ -1037,7 +1037,7 @@
 		"oAP": "\/images\/mouth\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/1.mp4": {
@@ -1054,7 +1054,7 @@
 		"oAP": "\/images\/mouth\/10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/11.jpg": {
@@ -1064,7 +1064,7 @@
 		"oAP": "\/images\/mouth\/11.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/12.jpg": {
@@ -1074,7 +1074,7 @@
 		"oAP": "\/images\/mouth\/12.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/13.jpg": {
@@ -1084,7 +1084,7 @@
 		"oAP": "\/images\/mouth\/13.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/14.jpg": {
@@ -1094,7 +1094,7 @@
 		"oAP": "\/images\/mouth\/14.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/2.jpg": {
@@ -1104,7 +1104,7 @@
 		"oAP": "\/images\/mouth\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/3.jpg": {
@@ -1114,7 +1114,7 @@
 		"oAP": "\/images\/mouth\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/4.jpg": {
@@ -1124,7 +1124,7 @@
 		"oAP": "\/images\/mouth\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/5.jpg": {
@@ -1134,7 +1134,7 @@
 		"oAP": "\/images\/mouth\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/6.jpg": {
@@ -1144,7 +1144,7 @@
 		"oAP": "\/images\/mouth\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/7.jpg": {
@@ -1154,7 +1154,7 @@
 		"oAP": "\/images\/mouth\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/8.jpg": {
@@ -1164,7 +1164,7 @@
 		"oAP": "\/images\/mouth\/8.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/mouth\/9.jpg": {
@@ -1174,7 +1174,7 @@
 		"oAP": "\/images\/mouth\/9.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/0.jpg": {
@@ -1184,7 +1184,7 @@
 		"oAP": "\/images\/redruins\/0.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/1": {
@@ -1211,7 +1211,7 @@
 		"oAP": "\/images\/redruins\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/3.jpg": {
@@ -1221,7 +1221,7 @@
 		"oAP": "\/images\/redruins\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/4.jpg": {
@@ -1231,7 +1231,7 @@
 		"oAP": "\/images\/redruins\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/5.jpg": {
@@ -1241,7 +1241,7 @@
 		"oAP": "\/images\/redruins\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/6.jpg": {
@@ -1251,7 +1251,7 @@
 		"oAP": "\/images\/redruins\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/7.jpg": {
@@ -1261,7 +1261,7 @@
 		"oAP": "\/images\/redruins\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/8.jpg": {
@@ -1271,7 +1271,7 @@
 		"oAP": "\/images\/redruins\/8.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/9.jpg": {
@@ -1281,7 +1281,7 @@
 		"oAP": "\/images\/redruins\/9.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/redruins\/space\/0.jpg": {
@@ -1320,8 +1320,8 @@
 		"oA": 0,
 		"oAP": "\/images\/redruins\/space\/3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
