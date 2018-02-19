@@ -71,7 +71,7 @@ h1 {
     font-size: 12pt;
 }
 
-.bold{
+.bold {
     font-weight: 400;
 }
 
@@ -92,19 +92,6 @@ h1 {
 
 #rounded {
     border-radius: 10px;
-}
-
-// Layout Color Specifications
-#lightblue{
-    background-color: #ECFFFB;
-}
-
-#cream {
-    background-color: #FBF3DE
-}
-
-#white{
-    background-color: white;
 }
 
 // Navigation
@@ -139,6 +126,7 @@ nav {
         }
     }
 }
+
 @media only screen and (min-width: 993px) {
     nav {
         .nav-wrapper {
@@ -160,6 +148,19 @@ nav {
     position: absolute;
     display: block;
     font-size: 50px;
+}
+
+// Layout Color Specifications
+#lightblue {
+    background-color: #ECFFFB;
+}
+
+#cream {
+    background-color: #FBF3DE
+}
+
+#white {
+    background-color: white;
 }
 
 // nav {

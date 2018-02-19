@@ -72,15 +72,6 @@ h1 {
 #rounded {
   border-radius: 10px; }
 
-#lightblue {
-  background-color: #ECFFFB; }
-
-#cream {
-  background-color: #FBF3DE; }
-
-#white {
-  background-color: white; }
-
 nav {
   width: 100%;
   position: fixed;
@@ -116,3 +107,12 @@ nav {
   position: absolute;
   display: block;
   font-size: 50px; }
+
+#lightblue {
+  background-color: #ECFFFB; }
+
+#cream {
+  background-color: #FBF3DE; }
+
+#white {
+  background-color: white; }
