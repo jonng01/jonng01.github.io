@@ -789,6 +789,27 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/canes\/canegroup.jpg": {
+		"ft": 16384,
+		"iS": 348301,
+		"oA": 0,
+		"oAP": "\/images\/canes\/canegroup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/canes\/canegroup.png": {
+		"ft": 32768,
+		"iS": 2750893,
+		"oA": 0,
+		"oAP": "\/images\/canes\/canegroup.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/canes\/process\/1.jpg": {
 		"ft": 16384,
 		"iS": 556109,
@@ -894,6 +915,16 @@
 		"iS": 236533,
 		"oA": 0,
 		"oAP": "\/images\/home\/8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/home\/hands.jpg": {
+		"ft": 16384,
+		"iS": 174397,
+		"oA": 0,
+		"oAP": "\/images\/home\/hands.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
