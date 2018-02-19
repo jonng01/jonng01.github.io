@@ -1,43 +1,81 @@
 // font-files
-// @font-face {
-//     font-family: 'foundersGroteskLight';
-//     src: url('../fonts/founders-grotesk/founderslight.woff') format('woff');
-// }
-// @font-face {
-//     font-family: 'foundersGroteskMedium';
-//     src: url('../fonts/founders-grotesk/founders-medium.woff') format('woff');
-// }
-// @font-face {
-//     font-family: 'foundersGroteskBold';
-//     src: url('../fonts/founders-grotesk/founders-semi.woff') format('woff');
-// }
 @font-face {
-    font-family: 'druk';
-    src: url('../fonts/druk/drukmedium.woff') format('woff');
-    font-weight: medium;
+    font-family: 'DomaineSans';
+    src: url('../fonts/domaine/DomaineSansTextWeb-Regular.woff') format('woff');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'DomaineSans';
+    src: url('../fonts/domaine/DomaineSansTextWeb-RegularItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DomaineSans';
+    src: url('../fonts/domaine/DomaineSansTextWeb-Bold.woff') format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DomaineSans';
+    src: url('../fonts/domaine/DomaineSansTextWeb-BoldItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/founders/FoundersGroteskLight.woff2') format('woff2');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/founders/FoundersGroteskRegular.woff2') format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/founders/FoundersGroteskMedium.woff2') format('woff2');
+    font-weight: 400;
+}
+
+// Typography Styles
+html {
+    font-family: 'FoundersGrotesk', Helvetica, sans-serif;
+    font-weight: 200;
 }
 
 body {
-    font-family: 'foundersGroteskLight', Helvetica, sans-serif;
-    font-weight: normal;
+    color: #6F8CD6;
     background-color: #ECFFFB;
 }
 
 h1 {
+    font-family: 'DomaineSans', Helvetica, sans-serif;
     font-weight: bold;
+    font-style: italic;
+    font-size: 40pt;
 }
 
-#druk {
-    font-family: "druk", Helvetica, sans-serif;
+#domaine {
+    font-family: 'DomaineSans', Helvetica, sans-serif;
     font-size: 18pt;
-    color: black;
 }
 
 #founders {
-    font-family: "foundersGroteskLight", Helvetica, sans-serif;
+    font-family: 'FoundersGrotesk', Helvetica, sans-serif;
     font-size: 12pt;
-    color: black;
 }
+
+.bold{
+    font-weight: 400;
+}
+
+.caption {}
 
 // Padding Standards
 .smallspacing {
@@ -56,20 +94,29 @@ h1 {
     border-radius: 10px;
 }
 
+// Layout Color Specifications
+#lightblue{
+    background-color: #ECFFFB;
+}
+
+#cream {
+    background-color: #FBF3DE
+}
+
 // Navigation
 nav {
     width: 100%;
-    background-color: whitesmoke;
     position: fixed;
     z-index: 100;
     display: flex;
     justify-content: center;
     align-content: center;
     .nav-wrapper {
-        max-width: 90%;
-        min-width: 80%;
         display: flex;
         justify-content: space-between;
+        margin: 0 auto;
+        max-width: 1280px;
+        width: 90%;
         .nav-logo {
             display: flex;
             align-content: center;
@@ -81,12 +128,25 @@ nav {
     }
 }
 
+@media only screen and (min-width: 601px) {
+    nav {
+        .nav-wrapper {
+            width: 85%;
+        }
+    }
+}
+@media only screen and (min-width: 993px) {
+    nav {
+        .nav-wrapper {
+            width: 70%;
+        }
+    }
+}
+
 //Portfolio Piece
 .portfoliopiece {}
 
-.portfoliopiece:hover {
-
-}
+.portfoliopiece:hover {}
 
 .description {
     display: none;
@@ -97,8 +157,6 @@ nav {
     display: block;
     font-size: 50px;
 }
-
-
 
 // nav {
 //     z-index: 100;

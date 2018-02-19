@@ -1,25 +1,64 @@
 @font-face {
-  font-family: 'druk';
-  src: url("../fonts/druk/drukmedium.woff") format("woff");
-  font-weight: medium; }
+  font-family: 'DomaineSans';
+  src: url("../fonts/domaine/DomaineSansTextWeb-Regular.woff") format("woff");
+  font-weight: 300; }
+
+@font-face {
+  font-family: 'DomaineSans';
+  src: url("../fonts/domaine/DomaineSansTextWeb-RegularItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'DomaineSans';
+  src: url("../fonts/domaine/DomaineSansTextWeb-Bold.woff") format("woff");
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'DomaineSans';
+  src: url("../fonts/domaine/DomaineSansTextWeb-BoldItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'FoundersGrotesk';
+  src: url("../fonts/founders/FoundersGroteskLight.woff2") format("woff2");
+  font-weight: 200; }
+
+@font-face {
+  font-family: 'FoundersGrotesk';
+  src: url("../fonts/founders/FoundersGroteskRegular.woff2") format("woff2");
+  font-weight: 300; }
+
+@font-face {
+  font-family: 'FoundersGrotesk';
+  src: url("../fonts/founders/FoundersGroteskMedium.woff2") format("woff2");
+  font-weight: 400; }
+
+html {
+  font-family: 'FoundersGrotesk', Helvetica, sans-serif;
+  font-weight: 200; }
 
 body {
-  font-family: 'foundersGroteskLight', Helvetica, sans-serif;
-  font-weight: normal;
+  color: #6F8CD6;
   background-color: #ECFFFB; }
 
 h1 {
-  font-weight: bold; }
+  font-family: 'DomaineSans', Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40pt; }
 
-#druk {
-  font-family: "druk", Helvetica, sans-serif;
-  font-size: 18pt;
-  color: black; }
+#domaine {
+  font-family: 'DomaineSans', Helvetica, sans-serif;
+  font-size: 18pt; }
 
 #founders {
-  font-family: "foundersGroteskLight", Helvetica, sans-serif;
-  font-size: 12pt;
-  color: black; }
+  font-family: 'FoundersGrotesk', Helvetica, sans-serif;
+  font-size: 12pt; }
+
+.bold {
+  font-weight: 400; }
 
 .smallspacing {
   padding-top: 30px; }
@@ -33,25 +72,39 @@ h1 {
 #rounded {
   border-radius: 10px; }
 
+#lightblue {
+  background-color: #ECFFFB; }
+
+#cream {
+  background-color: #FBF3DE; }
+
 nav {
   width: 100%;
-  background-color: whitesmoke;
   position: fixed;
   z-index: 100;
   display: flex;
   justify-content: center;
   align-content: center; }
   nav .nav-wrapper {
-    max-width: 90%;
-    min-width: 80%;
     display: flex;
-    justify-content: space-between; }
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%; }
     nav .nav-wrapper .nav-logo {
       display: flex;
       align-content: center; }
     nav .nav-wrapper .nav-content {
       display: flex;
       align-content: center; }
+
+@media only screen and (min-width: 601px) {
+  nav .nav-wrapper {
+    width: 85%; } }
+
+@media only screen and (min-width: 993px) {
+  nav .nav-wrapper {
+    width: 70%; } }
 
 .description {
   display: none; }
