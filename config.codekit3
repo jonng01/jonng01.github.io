@@ -16,6 +16,13 @@
 		"oAP": "\/36mm.html",
 		"oF": 0
 		},
+	"\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/bench.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -296,6 +303,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/36mm\/scroll\/1.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/36mm\/scroll\/1.pdf",
+		"oF": 0
+		},
 	"\/images\/36mm\/scroll\/2.jpg": {
 		"ft": 16384,
 		"iS": 434297,
@@ -472,6 +486,16 @@
 		"iS": 738345,
 		"oA": 0,
 		"oAP": "\/images\/36mm\/trunk\/9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/about\/1.jpg": {
+		"ft": 16384,
+		"iS": 114809,
+		"oA": 0,
+		"oAP": "\/images\/about\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1337,7 +1361,7 @@
 		"oAP": "\/images\/table\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/table\/3.jpg": {
@@ -1357,7 +1381,7 @@
 		"oAP": "\/images\/table\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/table\/drawing.jpg": {
@@ -1377,7 +1401,7 @@
 		"oAP": "\/images\/table\/ortho1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/table\/ortho2.jpg": {
@@ -1387,7 +1411,7 @@
 		"oAP": "\/images\/table\/ortho2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/table\/rippletable.jpg": {
@@ -1414,7 +1438,7 @@
 		"oAP": "\/images\/table\/tableprint.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/table\/tableprint2.pdf": {

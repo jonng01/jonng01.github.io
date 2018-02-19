@@ -60,6 +60,9 @@ h1 {
 .bold {
   font-weight: 400; }
 
+.underline:hover {
+  text-decoration: underline; }
+
 .smallspacing {
   padding-top: 30px; }
 
@@ -68,6 +71,9 @@ h1 {
 
 .largespacing {
   padding-top: 100px; }
+
+.largerspacing {
+  padding-top: 150px; }
 
 #rounded {
   border-radius: 10px; }
@@ -116,3 +122,6 @@ nav {
 
 #white {
   background-color: #ffffff; }
+
+.carousel {
+  cursor: pointer; }

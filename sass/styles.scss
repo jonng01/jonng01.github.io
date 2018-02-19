@@ -75,6 +75,10 @@ h1 {
     font-weight: 400;
 }
 
+.underline:hover{
+    text-decoration: underline;
+}
+
 .caption {}
 
 // Padding Standards
@@ -88,6 +92,10 @@ h1 {
 
 .largespacing {
     padding-top: 100px;
+}
+
+.largerspacing {
+    padding-top: 150px;
 }
 
 #rounded {
@@ -163,54 +171,6 @@ nav {
     background-color: #ffffff;
 }
 
-// nav {
-//     z-index: 100;
-//     display: flex;
-//     justify-content: center;
-//     background-color: $primary-color;
-//     height: 75px;
-//     position: fixed;
-//     .nav-container {
-//         display: flex;
-//         align-items: center;
-//         width: 90%;
-//         .nav-content {
-//             .tabs {
-//                 width: 350px;
-//                 display: flex;
-//                 justify-content: space-between;
-//                 .tab {
-//                     width: 49%;
-//                 }
-//                 .tab:hover {
-//                     background-color: rgba(0, 0, 255, 0.075);
-//                 }
-//                 .indicator {
-//                     position: absolute;
-//                     bottom: 0;
-//                     height: 50px;
-//                     background-color: whitesmoke;
-//                     will-change: left, right;
-//                     opacity: 0.2
-//                 }
-//             }
-//         }
-//     }
-// }
-// @media (max-width: 600px) {
-//     nav {
-//         .nav-container {
-//             width: 100%;
-//             .nav-content {
-//                 width: 100%;
-//                 .tabs {
-//                     width: 100%;
-//                     margin-left: 0px;
-//                 }
-//                 .indicator {
-//                     width: 50%;
-//                 }
-//             }
-//         }
-//     }
-// }
+.carousel{
+    cursor: pointer;
+}
