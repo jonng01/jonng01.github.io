@@ -745,6 +745,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/canes\/cane.jpg": {
+		"ft": 16384,
+		"iS": 77126,
+		"oA": 0,
+		"oAP": "\/images\/canes\/cane.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/canes\/cane2.jpg": {
+		"ft": 16384,
+		"iS": 268036,
+		"oA": 0,
+		"oAP": "\/images\/canes\/cane2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/canes\/process\/1.jpg": {
 		"ft": 16384,
 		"iS": 556109,
