@@ -330,6 +330,20 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/36mm\/text\/1.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/36mm\/text\/1.pdf",
+		"oF": 0
+		},
+	"\/images\/36mm\/text\/2.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/36mm\/text\/2.pdf",
+		"oF": 0
+		},
 	"\/images\/36mm\/text\/chronicle.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -784,16 +798,6 @@
 		"iS": 268036,
 		"oA": 0,
 		"oAP": "\/images\/canes\/cane2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/canes\/canegroup.jpg": {
-		"ft": 16384,
-		"iS": 348301,
-		"oA": 0,
-		"oAP": "\/images\/canes\/canegroup.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

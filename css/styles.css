@@ -120,3 +120,13 @@ nav {
 
 .carousel {
   cursor: pointer; }
+
+.titlewrapper {
+  display: flex;
+  align-items: center; }
+
+.thirtysixmm {
+  font-family: 'DomaineSans', Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40pt; }

@@ -162,6 +162,24 @@ nav {
     cursor: pointer;
 }
 
+// Layout Specifications
+// 36mm
+.titlewrapper{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.thirtysixmm {
+    font-family: 'DomaineSans', Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40pt;
+}
+
+
+
 //Portfolio Piece
 // Additional Hover detail homepage
 // .portfoliopiece {}

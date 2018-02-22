@@ -5195,7 +5195,7 @@ small {
 .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #6F8CD6;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -5204,7 +5204,7 @@ small {
 
 .btn:hover,
 .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: rgb(43, 93, 219);
 }
 
 .btn-floating {
