@@ -60,8 +60,12 @@ h1 {
 .bold {
   font-weight: 400; }
 
-.underline:hover {
+.underline {
+  transition-duration: 0.5s;
   text-decoration: underline; }
+
+.underline:hover {
+  color: blue; }
 
 .caption {
   font-size: 14pt; }
@@ -124,6 +128,10 @@ nav {
 .titlewrapper {
   display: flex;
   align-items: center; }
+
+.aboutspacing {
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 .thirtysixmm {
   font-family: 'DomaineSans', Helvetica, sans-serif;
