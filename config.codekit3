@@ -303,13 +303,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/36mm\/scroll\/1.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/36mm\/scroll\/1.pdf",
-		"oF": 0
-		},
 	"\/images\/36mm\/scroll\/2.jpg": {
 		"ft": 16384,
 		"iS": 434297,
@@ -330,32 +323,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/36mm\/text\/1.pdf": {
+	"\/images\/36mm\/text\/news.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/36mm\/text\/1.pdf",
-		"oF": 0
-		},
-	"\/images\/36mm\/text\/2.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/36mm\/text\/2.pdf",
-		"oF": 0
-		},
-	"\/images\/36mm\/text\/chronicle.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/36mm\/text\/chronicle.pdf",
-		"oF": 0
-		},
-	"\/images\/36mm\/text\/enquirer.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/36mm\/text\/enquirer.pdf",
+		"oAP": "\/images\/36mm\/text\/news.pdf",
 		"oF": 0
 		},
 	"\/images\/36mm\/text\/scroll.pdf": {
@@ -363,6 +335,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/36mm\/text\/scroll.pdf",
+		"oF": 0
+		},
+	"\/images\/36mm\/text\/statement.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/36mm\/text\/statement.pdf",
 		"oF": 0
 		},
 	"\/images\/36mm\/top\/1.jpg": {
@@ -936,102 +915,72 @@
 		},
 	"\/images\/illustrations\/1.jpg": {
 		"ft": 16384,
-		"iS": 648012,
+		"iS": 524555,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/illustrations\/10.jpg": {
-		"ft": 16384,
-		"iS": 2756976,
-		"oA": 0,
-		"oAP": "\/images\/illustrations\/10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/2.jpg": {
 		"ft": 16384,
-		"iS": 1019685,
+		"iS": 427438,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/3.jpg": {
 		"ft": 16384,
-		"iS": 695299,
+		"iS": 567508,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/4.jpg": {
 		"ft": 16384,
-		"iS": 727904,
+		"iS": 407186,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/5.jpg": {
 		"ft": 16384,
-		"iS": 771679,
+		"iS": 455932,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/6.jpg": {
 		"ft": 16384,
-		"iS": 681913,
+		"iS": 814590,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/illustrations\/7.jpg": {
 		"ft": 16384,
-		"iS": 618419,
+		"iS": 1196219,
 		"oA": 0,
 		"oAP": "\/images\/illustrations\/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/illustrations\/8.jpg": {
-		"ft": 16384,
-		"iS": 887238,
-		"oA": 0,
-		"oAP": "\/images\/illustrations\/8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/illustrations\/9.jpg": {
-		"ft": 16384,
-		"iS": 918279,
-		"oA": 0,
-		"oAP": "\/images\/illustrations\/9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/mouth\/1.jpg": {
